@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm Fullstack Engineer and Designer
 
 - I’m currently the team lead [Devextreme Scheduler](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Scheduler/Overview/).
-- Founder and developer [Keepfit.live](https://keepfit.live) - live streaming platform that focused on fitness, it's a mix social network and video streaming service.![image](https://user-images.githubusercontent.com/25015864/167297968-b5a12b26-3526-4d4f-8149-1d471da7740d.gif)
+- Founder and developer [Keepfit.live](https://keepfit.live) - live streaming platform that focused on fitness, it's a mix social network and video streaming service.
 
 
 I’m interested in web development, mobile and digital tech in general.
