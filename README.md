@@ -19,6 +19,7 @@ I'm Fullstack Engineer and Designer
 
 - I’m currently the team lead [Devextreme Scheduler](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Scheduler/Overview/).
 - Founder and developer [Keepfit.live](https://keepfit.live) - live streaming platform that focused on fitness, it's a mix social network and video streaming service.
+- Former a Back-end Developer and Game Developer
 
 
 I’m interested in web development, mobile and digital tech in general.
